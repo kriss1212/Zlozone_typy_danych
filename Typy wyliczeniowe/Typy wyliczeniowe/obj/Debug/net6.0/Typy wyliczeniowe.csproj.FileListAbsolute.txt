@@ -1,0 +1,15 @@
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Typy wyliczeniowe\Typy wyliczeniowe\obj\Debug\net6.0\Typy wyliczeniowe.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Typy wyliczeniowe\Typy wyliczeniowe\obj\Debug\net6.0\Typy wyliczeniowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Typy wyliczeniowe\Typy wyliczeniowe\obj\Debug\net6.0\Typy wyliczeniowe.AssemblyInfoInputs.cache
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Typy wyliczeniowe\Typy wyliczeniowe\obj\Debug\net6.0\Typy wyliczeniowe.AssemblyInfo.cs
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Typy wyliczeniowe\Typy wyliczeniowe\obj\Debug\net6.0\Typy wyliczeniowe.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Typy wyliczeniowe\Typy wyliczeniowe\bin\Debug\net6.0\Typy wyliczeniowe.exe
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Typy wyliczeniowe\Typy wyliczeniowe\bin\Debug\net6.0\Typy wyliczeniowe.deps.json
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Typy wyliczeniowe\Typy wyliczeniowe\bin\Debug\net6.0\Typy wyliczeniowe.runtimeconfig.json
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Typy wyliczeniowe\Typy wyliczeniowe\bin\Debug\net6.0\Typy wyliczeniowe.dll
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Typy wyliczeniowe\Typy wyliczeniowe\bin\Debug\net6.0\Typy wyliczeniowe.pdb
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Typy wyliczeniowe\Typy wyliczeniowe\obj\Debug\net6.0\Typy wyliczeniowe.dll
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Typy wyliczeniowe\Typy wyliczeniowe\obj\Debug\net6.0\refint\Typy wyliczeniowe.dll
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Typy wyliczeniowe\Typy wyliczeniowe\obj\Debug\net6.0\Typy wyliczeniowe.pdb
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Typy wyliczeniowe\Typy wyliczeniowe\obj\Debug\net6.0\Typy wyliczeniowe.genruntimeconfig.cache
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Typy wyliczeniowe\Typy wyliczeniowe\obj\Debug\net6.0\ref\Typy wyliczeniowe.dll

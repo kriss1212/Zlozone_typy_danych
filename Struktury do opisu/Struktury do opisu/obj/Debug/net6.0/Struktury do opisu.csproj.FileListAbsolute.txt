@@ -1,0 +1,15 @@
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Struktury do opisu\Struktury do opisu\obj\Debug\net6.0\Struktury do opisu.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Struktury do opisu\Struktury do opisu\obj\Debug\net6.0\Struktury do opisu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Struktury do opisu\Struktury do opisu\obj\Debug\net6.0\Struktury do opisu.AssemblyInfoInputs.cache
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Struktury do opisu\Struktury do opisu\obj\Debug\net6.0\Struktury do opisu.AssemblyInfo.cs
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Struktury do opisu\Struktury do opisu\obj\Debug\net6.0\Struktury do opisu.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Struktury do opisu\Struktury do opisu\bin\Debug\net6.0\Struktury do opisu.exe
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Struktury do opisu\Struktury do opisu\bin\Debug\net6.0\Struktury do opisu.deps.json
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Struktury do opisu\Struktury do opisu\bin\Debug\net6.0\Struktury do opisu.runtimeconfig.json
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Struktury do opisu\Struktury do opisu\bin\Debug\net6.0\Struktury do opisu.dll
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Struktury do opisu\Struktury do opisu\bin\Debug\net6.0\Struktury do opisu.pdb
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Struktury do opisu\Struktury do opisu\obj\Debug\net6.0\Struktury do opisu.dll
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Struktury do opisu\Struktury do opisu\obj\Debug\net6.0\refint\Struktury do opisu.dll
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Struktury do opisu\Struktury do opisu\obj\Debug\net6.0\Struktury do opisu.pdb
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Struktury do opisu\Struktury do opisu\obj\Debug\net6.0\Struktury do opisu.genruntimeconfig.cache
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Struktury do opisu\Struktury do opisu\obj\Debug\net6.0\ref\Struktury do opisu.dll

@@ -1,0 +1,15 @@
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Zdefiniowana struktura student\Zdefiniowana struktura student\bin\Debug\net6.0\Zdefiniowana struktura student.exe
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Zdefiniowana struktura student\Zdefiniowana struktura student\bin\Debug\net6.0\Zdefiniowana struktura student.deps.json
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Zdefiniowana struktura student\Zdefiniowana struktura student\bin\Debug\net6.0\Zdefiniowana struktura student.runtimeconfig.json
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Zdefiniowana struktura student\Zdefiniowana struktura student\bin\Debug\net6.0\Zdefiniowana struktura student.dll
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Zdefiniowana struktura student\Zdefiniowana struktura student\bin\Debug\net6.0\Zdefiniowana struktura student.pdb
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Zdefiniowana struktura student\Zdefiniowana struktura student\obj\Debug\net6.0\Zdefiniowana struktura student.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Zdefiniowana struktura student\Zdefiniowana struktura student\obj\Debug\net6.0\Zdefiniowana struktura student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Zdefiniowana struktura student\Zdefiniowana struktura student\obj\Debug\net6.0\Zdefiniowana struktura student.AssemblyInfoInputs.cache
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Zdefiniowana struktura student\Zdefiniowana struktura student\obj\Debug\net6.0\Zdefiniowana struktura student.AssemblyInfo.cs
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Zdefiniowana struktura student\Zdefiniowana struktura student\obj\Debug\net6.0\Zdefiniowana struktura student.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Zdefiniowana struktura student\Zdefiniowana struktura student\obj\Debug\net6.0\Zdefiniowana struktura student.dll
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Zdefiniowana struktura student\Zdefiniowana struktura student\obj\Debug\net6.0\refint\Zdefiniowana struktura student.dll
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Zdefiniowana struktura student\Zdefiniowana struktura student\obj\Debug\net6.0\Zdefiniowana struktura student.pdb
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Zdefiniowana struktura student\Zdefiniowana struktura student\obj\Debug\net6.0\Zdefiniowana struktura student.genruntimeconfig.cache
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Zdefiniowana struktura student\Zdefiniowana struktura student\obj\Debug\net6.0\ref\Zdefiniowana struktura student.dll

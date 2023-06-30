@@ -1,0 +1,15 @@
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Gra RPG\Gra RPG\obj\Debug\net6.0\Gra RPG.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Gra RPG\Gra RPG\obj\Debug\net6.0\Gra RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Gra RPG\Gra RPG\obj\Debug\net6.0\Gra RPG.AssemblyInfoInputs.cache
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Gra RPG\Gra RPG\obj\Debug\net6.0\Gra RPG.AssemblyInfo.cs
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Gra RPG\Gra RPG\obj\Debug\net6.0\Gra RPG.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Gra RPG\Gra RPG\bin\Debug\net6.0\Gra RPG.exe
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Gra RPG\Gra RPG\bin\Debug\net6.0\Gra RPG.deps.json
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Gra RPG\Gra RPG\bin\Debug\net6.0\Gra RPG.runtimeconfig.json
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Gra RPG\Gra RPG\bin\Debug\net6.0\Gra RPG.dll
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Gra RPG\Gra RPG\bin\Debug\net6.0\Gra RPG.pdb
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Gra RPG\Gra RPG\obj\Debug\net6.0\Gra RPG.dll
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Gra RPG\Gra RPG\obj\Debug\net6.0\refint\Gra RPG.dll
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Gra RPG\Gra RPG\obj\Debug\net6.0\Gra RPG.pdb
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Gra RPG\Gra RPG\obj\Debug\net6.0\Gra RPG.genruntimeconfig.cache
+C:\Users\Krzysiek\source\repos\Złożone typy danych\Gra RPG\Gra RPG\obj\Debug\net6.0\ref\Gra RPG.dll
